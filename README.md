@@ -8,7 +8,7 @@ You can also read most of my articles and blog on [Yuque](https://www.yuque.com/
 
 > If you also want to write this document together, please contact me :)
 
-![Snake animation](https://github.com/tuntun0609/tuntun0609/blob/output/github-snake.svg)
+![https://github.com/tuntun0609/tuntun0609/blob/output/github-snake.svg](https://raw.githubusercontent.com/tuntun0609/tuntun0609/output/github-contribution-grid-snake.svg)
 <a href="https://github.com/tuntun0609" className="repo-list-item">
   <img alt="Tuntun's GitHub stats" src="https://tun-github-readme-stats.vercel.app/api?username=tuntun0609" />
 </a>
